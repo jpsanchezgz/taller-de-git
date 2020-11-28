@@ -2,4 +2,8 @@ Hello a todos :D
 
 uno
 
+<<<<<<< HEAD
 rama-uno
+=======
+rama-dos
+>>>>>>> rama-dos
